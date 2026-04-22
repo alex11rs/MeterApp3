@@ -1,0 +1,35 @@
+﻿# Android Studio
+.idea/
+*.iml
+.gradle/
+.gradle-local/
+.kotlin/
+/local.properties
+/.idea/caches/
+/.idea/libraries/
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/.idea/vcs.xml
+/.idea/deploymentTargetSelector.xml
+
+# Build files
+/build/
+/app/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+
+# Kotlin
+*.class
+*.log
+*.kotlin_module
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Accidental local files
+et --hard*
+.claude/

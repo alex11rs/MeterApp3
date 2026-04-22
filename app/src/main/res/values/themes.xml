@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ✅ Основная тема для Compose -->
+    <style name="Theme.MeterApp3" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Цвет статуса бара (опционально) -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <!-- Цвет навигационной панели (опционально) -->
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+</resources>
